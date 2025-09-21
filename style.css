@@ -403,13 +403,13 @@
          color: #a855f7;
      }
      .work-image.aksharai {
-     background: url("aksharaimobile.png");
+     background: url(aksharaimobile.png);
      background-size: cover;
      opacity: 90%;
  }
  
  .work-image.vastrasangar {
-        background: url("vastrasangarmobile.png");
+        background: url(vastrasangarmobile.png);
         background-size: cover;
         opacity: 90%;
  }
